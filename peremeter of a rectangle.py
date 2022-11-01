@@ -1,0 +1,5 @@
+print("perimeter of a rectangle")
+l=int(input("enter the length of the rectangle "))
+b=int(input("enter the breadth of the rectangle "))
+formula=2*(l+b)
+print("the peremeter of the given rectangle is ",formula)
